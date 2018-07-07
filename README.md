@@ -1,6 +1,8 @@
 # my-rails-apps
 List of Rails Apps
 
+#Please find a list of all the apps completed based on the book railstutorial.org
+
 First App: hello_app
 https://github.com/kat2018/hello_app
 Heroku deployment: n/a
